@@ -1,4 +1,4 @@
-# Hi, I'm Irina!
+## 	:wave: Hi, I'm Irina!
 
 I am an entry-level data analytics professional, I am equipped with a solid foundation in data analysis and a recent completion of the Google Data Analytics Professional Certificate.
 
@@ -8,21 +8,21 @@ I am open to entry-level positions that offer growth potential and provide a dyn
 
 If you are looking for a dedicated and analytically-driven professional, I invite you to connect with me. Let's discuss how my skills and passion for data analytics can benefit your organization and contribute to its success.
 
-## Tools
+## :hammer_and_wrench: Tools
 
-Microsoft Excel 
+- Microsoft Excel 
 
-Database: Google BigQuery, SQL Server
+- Database: Google BigQuery, SQL Server
 
-Python: Pandas
+- Python: Pandas
 
-Business Intelligence: Tableau
+- Business Intelligence: Tableau
 
-## Projects
+## 	:briefcase: Projects
 
 Here is my portfolio, where I showcase [my projects](https://github.com/IrinaShafeeva/Portfolio).
 
-## Contacts
+## :handshake: Contacts
 
 :envelope_with_arrow: irisha.shafeeva@gmail.com
 
