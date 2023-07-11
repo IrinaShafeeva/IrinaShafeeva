@@ -10,13 +10,13 @@ If you are looking for a dedicated and analytically-driven professional, I invit
 
 ## :hammer_and_wrench: Tools
 
-- Microsoft Excel 
+- Microsoft Excel,Google Sheets
 
 - Database: Google BigQuery, SQL Server
 
-- Python: Pandas
+- Python: Pandas, Numpy, Matplotlib
 
-- Business Intelligence: Tableau
+- Business Intelligence: Tableau, Power BI
 
 ## 	:briefcase: Projects
 
